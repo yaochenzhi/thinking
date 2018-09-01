@@ -21,3 +21,6 @@ what you have or something that just lies there
 what is the destination
 
 consider the reality and the possibility to be revealed!
+
+# Hello world !
+人生观、价值观、世界观，活力与精力，学习能力与自我驱动力。
